@@ -1,0 +1,57 @@
+ID_Start_Location,differ_HHMM,S_time,Month,Start_Lat,Start_Lng,Distance.mi.,Accident.Description,Traffic.Speed,Street,City,Weather_Condition,New_pred
+12,2023-09-24 01:17:00,2020-02-06 09:29:00,2,40.61955,-74.02346,4.48,Right lane blocked,28,Brooklyn Queens Expy,Brooklyn,Fog,3
+12,2023-09-24 01:31:00,2020-11-21 09:24:00,11,40.61955,-74.02346,3.17,Two lanes blocked,28,Brooklyn Queens Expy,Brooklyn,Fair,3
+12,2023-09-24 01:21:00,2019-10-26 15:51:00,10,40.61955,-74.02346,4.48,Two lanes blocked,20,Brooklyn Queens Expy,Brooklyn,Fair,3
+12,2023-09-24 01:17:00,2020-09-20 15:12:00,9,40.61955,-74.02346,3.17,Right lane blocked,20,Brooklyn Queens Expy,Brooklyn,Fair,3
+12,2023-09-24 02:41:00,2020-01-11 16:14:00,1,40.61955,-74.02346,4.48,Right lane blocked,22,Brooklyn Queens Expy,Brooklyn,Cloudy,3
+12,2023-09-24 00:29:00,2019-09-15 22:49:00,9,40.61955,-74.02346,4.49,One lane blocked ,36,Brooklyn Queens Expy,Brooklyn,Fair,3
+12,2023-09-24 00:29:00,2020-08-03 22:50:00,8,40.61955,-74.02346,0.0,Right and center lane blocked,36,Brooklyn Queens Expy,Brooklyn,Fair,3
+36,2023-09-24 00:30:00,2019-02-05 06:45:00,2,40.6659,-73.99604,0.226,Right lane blocked,29,Gowanus Expy E,Brooklyn,Mostly Cloudy,2
+36,2023-09-24 06:00:00,2018-05-18 07:19:00,5,40.6659,-73.99604,0.784,Road closed,0,Gowanus Expy E,Brooklyn,Mostly Cloudy,3
+36,2023-09-24 00:29:00,2020-01-20 07:04:00,1,40.6659,-73.99604,0.226,Two lanes blocked,22,Gowanus Expy E,Brooklyn,Fair,2
+36,2023-09-24 00:30:00,2020-01-29 07:57:00,1,40.6659,-73.99604,0.226,Right lane blocked,23,Gowanus Expy E,Brooklyn,Cloudy,2
+36,2023-09-24 00:29:00,2019-04-15 09:29:00,4,40.6659,-73.99604,0.226,Right lane blocked,28,Gowanus Expy E,Brooklyn,Partly Cloudy,2
+36,2023-09-24 00:27:00,2019-06-27 09:05:00,6,40.6659,-73.99604,0.226,One lane blocked ,28,Gowanus Expy E,Brooklyn,Fair,3
+36,2023-09-24 06:00:00,2017-11-29 11:09:00,11,40.6659,-73.99604,0.226,Right lane blocked,37,Gowanus Expy E,Brooklyn,Clear,3
+36,2023-09-24 06:00:00,2017-12-01 15:52:00,12,40.6659,-73.99604,0.226,Right lane blocked,26,Gowanus Expy E,Brooklyn,Clear,3
+36,2023-09-24 00:27:00,2019-04-04 17:49:00,4,40.6659,-73.99604,0.226,Right lane blocked,15,Gowanus Expy E,Brooklyn,Fair,2
+36,2023-09-24 06:00:00,2017-11-28 20:46:00,11,40.6659,-73.99604,0.226,Right lane blocked,39,Gowanus Expy E,Brooklyn,Clear,3
+36,2023-09-24 00:28:00,2018-11-29 21:03:00,11,40.6659,-73.99604,0.226,Two lanes blocked,38,Gowanus Expy E,Brooklyn,Partly Cloudy,3
+20,2023-09-24 00:30:00,2020-06-26 07:46:00,6,40.6664,-73.80175,0.0,Two lanes blocked,22,Van Wyck Expy S,South Ozone Park,Partly Cloudy,2
+20,2023-09-24 00:30:00,2020-06-26 07:46:00,6,40.6664,-73.80175,0.0,Two lanes blocked,22,Van Wyck Expy S,South Ozone Park,Partly Cloudy,2
+20,2023-09-24 00:30:00,2020-05-09 17:50:00,5,40.6664,-73.80175,0.0,Right lane blocked,13,Van Wyck Expy S,South Ozone Park,Light Rain,2
+20,2023-09-24 00:30:00,2020-05-09 18:58:00,5,40.6664,-73.80175,0.0,Right lane blocked,24,Van Wyck Expy S,South Ozone Park,Mostly Cloudy / Windy,2
+20,2023-09-24 00:30:00,2020-05-09 18:54:00,5,40.6664,-73.80175,0.0,Right lane blocked,24,Van Wyck Expy S,South Ozone Park,Mostly Cloudy / Windy,2
+20,2023-09-24 00:30:00,2020-05-09 18:23:00,5,40.6664,-73.80175,0.0,Right lane blocked,21,Van Wyck Expy S,South Ozone Park,Mostly Cloudy / Windy,2
+20,2023-09-24 00:45:00,2020-04-26 20:13:00,4,40.6664,-73.80175,0.0,Two lanes blocked,38,Van Wyck Expy S,South Ozone Park,Light Rain,2
+16,2023-09-24 01:03:00,2019-06-15 03:39:00,6,40.66707,-73.99574,0.0,Right lane blocked,60,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 02:02:00,2019-12-28 03:27:00,12,40.66707,-73.99574,0.0,Two lanes blocked,47,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 01:39:00,2020-01-20 06:38:00,1,40.66707,-73.99574,0.0,Right lane blocked,29,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 00:29:00,2019-06-24 10:26:00,6,40.66707,-73.99574,0.0,One lane blocked ,32,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 01:15:00,2019-07-30 13:35:00,7,40.66707,-73.99574,0.0,Right lane blocked,19,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 02:49:00,2020-08-13 13:19:00,8,40.66707,-73.99574,0.0,Two lanes blocked,19,Brooklyn Queens Expy,Brooklyn,,3
+16,2023-09-24 01:16:00,2020-03-18 14:05:00,3,40.66707,-73.99574,0.0,Right lane blocked,22,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 01:45:00,2020-01-06 15:20:00,1,40.66707,-73.99574,0.0,Two lanes blocked,20,Brooklyn Queens Expy,Brooklyn,Cloudy,3
+16,2023-09-24 01:27:00,2020-06-28 16:15:00,6,40.66707,-73.99574,0.0,Two lanes blocked,22,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 01:15:00,2019-06-26 17:03:00,6,40.66707,-73.99574,0.0,Right lane blocked,15,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 00:59:00,2020-06-01 18:27:00,6,40.66707,-73.99574,0.0,Right lane blocked,13,Brooklyn Queens Expy,Brooklyn,Cloudy,3
+16,2023-09-24 00:46:00,2020-01-30 19:46:00,1,40.66707,-73.99574,0.0,Right lane blocked,28,Brooklyn Queens Expy,Brooklyn,Fair,3
+16,2023-09-24 00:30:00,2020-02-28 22:11:00,2,40.66707,-73.99574,0.0,Two lanes blocked,36,Brooklyn Queens Expy,Brooklyn,Mostly Cloudy,3
+98,2023-09-24 00:29:00,2017-07-24 05:47:00,7,40.66711,-73.99592,0.0,Two lanes blocked,36,Gowanus Expy E,Brooklyn,Rain,3
+98,2023-09-24 00:29:00,2017-12-05 08:34:00,12,40.66711,-73.99592,0.0,Two lanes blocked,20,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:30:00,2018-01-07 08:01:00,1,40.66711,-73.99592,0.0,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear,2
+98,2023-09-24 00:29:00,2016-11-15 10:24:00,11,40.66711,-73.99592,0.01,Two lanes blocked,32,Gowanus Expy E,Brooklyn,Rain,3
+98,2023-09-24 00:44:00,2017-02-19 10:40:00,2,40.66711,-73.99592,0.01,Two lanes blocked,32,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:30:00,2017-05-24 10:51:00,5,40.66711,-73.99592,0.01,Two lanes blocked,35,Gowanus Expy E,Brooklyn,Overcast,3
+98,2023-09-24 00:44:00,2017-04-28 15:29:00,4,40.66711,-73.99592,0.01,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:45:00,2017-11-12 15:45:00,11,40.66711,-73.99592,0.0,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:45:00,2017-09-07 17:32:00,9,40.66711,-73.99592,0.0,One lane blocked ,15,Gowanus Expy E,Brooklyn,Mostly Cloudy,3
+98,2023-09-24 00:44:00,2016-12-19 18:28:00,12,40.66711,-73.99592,0.01,Right lane blocked,13,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:28:00,2018-02-05 18:51:00,2,40.66711,-73.99592,0.0,Two lanes blocked,13,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:58:00,2016-10-03 19:17:00,10,40.66711,-73.99592,0.0,Right lane blocked,28,Gowanus Expy E,Brooklyn,Scattered Clouds,3
+98,2023-09-24 00:45:00,2017-02-21 19:32:00,2,40.66711,-73.99592,0.01,Right lane blocked,28,Gowanus Expy E,Brooklyn,Clear,3
+98,2023-09-24 00:29:00,2016-10-04 21:28:00,10,40.66711,-73.99592,0.0,Two lanes blocked,38,Gowanus Expy E,Brooklyn,Partly Cloudy,3
+98,2023-09-24 00:30:00,2017-01-14 21:43:00,1,40.66711,-73.99592,0.01,Right lane blocked,38,Gowanus Expy E,Brooklyn,Overcast,3
+34,2023-09-24 00:30:00,2020-03-26 05:36:00,3,40.68258,-73.66615,0.0,Right lane blocked,36,Southern State Pkwy E,Malverne,Fair,2
+34,2023-09-24 06:00:00,2018-07-11 08:27:00,7,40.68258,-73.66615,1.213,Right lane blocked,24,Southern State Pkwy E,Malverne,Partly Cloudy,2
+34,2023-09-24 00:30:00,2019-02-06 09:26:00,2,40.68258,-73.66615,0.27,Right lane blocked,28,Southern State Pkwy E,Malverne,Partly Cloudy,2

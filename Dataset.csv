@@ -1,0 +1,193 @@
+ID_Start_Lat_Lonh,Severity,differ_HHMM,S_time,Month,Start_Lat,Start_Lng,Distance.mi.,Accident.Description,Traffic.Speed,Street,City,Weather_Condition
+1,2,0:45,12/30/2017 9:01,12,41.10979,-73.80144,0,Right hand shoulder blocked ,28,Saw Mill River Pkwy N,Hawthorne,Light Snow
+1,2,0:59,12/27/2017 13:18,12,41.10979,-73.80144,0,Right hand shoulder blocked ,25,Saw Mill River Pkwy N,Hawthorne,Partly Cloudy
+6,2,0:29,12/22/2017 17:52,12,40.77143,-73.87611,0,Two lanes blocked,20,Grand Central Pkwy E,East Elmhurst,Overcast
+8,2,0:30,12/19/2017 20:22,12,41.67018,-73.78852,0,Right hand shoulder blocked ,39,Taconic State Pkwy,Lagrangeville,Scattered Clouds
+9,2,0:27,12/15/2017 22:33,12,41.40964,-73.78676,0,Right hand shoulder blocked ,39,Taconic State Pkwy N,Putnam Valley,Mostly Cloudy
+12,3,0:29,12/11/2017 8:19,12,40.73431,-73.92232,0,Two lanes blocked,20,Long Island Expy E,Maspeth,Mostly Cloudy
+14,3,0:29,12/5/2017 8:34,12,40.66711,-73.99592,0,Two lanes blocked,20,Gowanus Expy E,Brooklyn,Clear
+15,2,0:29,12/5/2017 8:01,12,41.18482,-73.8074,0,Right hand shoulder blocked ,24,Taconic State Pkwy S,Chappaqua,Mostly Cloudy
+16,3,0:30,12/4/2017 0:50,12,40.7401,-73.84543,0,Three lanes blocked,42,Grand Central Pkwy W,Corona,Partly Cloudy
+18,3,0:30,12/1/2017 4:34,12,41.53931,-73.77114,0,Right hand shoulder blocked ,43,Taconic State Pkwy,Hopewell Junction,Clear
+18,3,2:15,12/1/2017 4:34,12,41.53931,-73.77114,0,Right hand shoulder blocked ,43,Taconic State Pkwy,Hopewell Junction,Clear
+19,3,0:44,11/29/2017 19:24,11,40.82236,-73.88721,0,Right lane blocked,28,Sheridan Expy N,Bronx,Partly Cloudy
+6,2,0:29,11/29/2017 5:43,11,40.77143,-73.87611,0,Right lane blocked,38,Grand Central Pkwy E,East Elmhurst,Clear
+20,2,0:29,11/28/2017 0:54,11,41.05513,-73.81042,2.2,Right lane blocked,43,Sprain Brook Pkwy S,Elmsford,Clear
+12,3,0:45,11/13/2017 17:01,11,40.73431,-73.92232,0,Right lane blocked,15,Long Island Expy E,Maspeth,Mostly Cloudy
+14,3,0:45,11/12/2017 15:45,11,40.66711,-73.99592,0,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear
+26,3,0:30,11/8/2017 10:26,11,40.69165,-73.99931,0,Right lane blocked,32,Brooklyn Queens Expy,Brooklyn,Overcast
+27,3,0:45,11/7/2017 16:40,11,40.83742,-73.88061,0,Right lane blocked,22,Cross Bronx Expy E,Bronx,Rain
+26,3,0:29,11/4/2017 15:47,11,40.69165,-73.99931,0,Right lane blocked,20,Brooklyn Queens Expy,Brooklyn,Clear
+18,2,0:45,11/2/2017 18:32,11,41.53931,-73.77114,0,Right hand shoulder blocked ,21,Taconic State Pkwy,Hopewell Junction,Clear
+32,2,0:30,11/2/2017 8:06,11,41.25376,-73.80881,0,Right hand shoulder blocked ,24,Taconic State Pkwy S,Yorktown Heights,Fog
+32,2,0:30,11/1/2017 9:14,11,41.25376,-73.80881,0,Right hand shoulder blocked ,28,Taconic State Pkwy S,Yorktown Heights,Mostly Cloudy
+32,2,0:30,10/29/2017 17:10,10,41.25376,-73.80881,0,Right hand shoulder blocked ,20,Taconic State Pkwy S,Yorktown Heights,Rain
+1,2,0:29,10/29/2017 17:09,10,41.10979,-73.80144,0,Right hand shoulder blocked ,20,Saw Mill River Pkwy N,Hawthorne,Rain
+19,3,0:45,10/27/2017 17:27,10,40.82236,-73.88721,0,Right lane blocked,15,Sheridan Expy N,Bronx,Partly Cloudy
+34,3,0:29,10/26/2017 5:41,10,40.84514,-73.92654,0,Right lane blocked,36,Major Deegan Expy N,Bronx,Mostly Cloudy
+6,2,0:45,10/25/2017 17:00,10,40.77143,-73.87611,0,Left and center lane blocked ,20,Grand Central Pkwy E,East Elmhurst,Overcast
+35,2,0:30,10/24/2017 10:19,10,41.77643,-73.76835,0,Right hand shoulder blocked ,35,Taconic State Pkwy,Pleasant Valley,Overcast
+37,2,0:30,10/24/2017 8:04,10,40.92158,-73.80969,0,Right hand shoulder blocked ,24,Hutchinson River Pkwy S,Pelham,Overcast
+12,3,0:30,10/24/2017 7:56,10,40.73431,-73.92232,0,Two lanes blocked,22,Long Island Expy E,Maspeth,Light Rain
+8,2,0:45,10/20/2017 20:29,10,41.67018,-73.78852,0,Right hand shoulder blocked ,39,Taconic State Pkwy,Lagrangeville,Clear
+18,3,0:45,10/20/2017 13:42,10,41.53931,-73.77114,0,Right hand shoulder blocked ,19,Taconic State Pkwy,Hopewell Junction,Clear
+40,3,0:45,10/20/2017 14:04,10,40.82445,-73.8726,0,Right lane blocked,22,Bronx River Pkwy S,Bronx,Clear
+12,3,0:29,10/20/2017 9:37,10,40.73431,-73.92232,0,Right lane blocked,28,Long Island Expy E,Maspeth,Partly Cloudy
+34,3,0:45,10/19/2017 16:56,10,40.84514,-73.92654,0,Right and center lane blocked,22,Major Deegan Expy N,Bronx,Scattered Clouds
+40,3,0:45,10/19/2017 15:28,10,40.82445,-73.8726,0,Right lane blocked,20,Bronx River Pkwy S,Bronx,Partly Cloudy
+37,2,0:45,10/19/2017 13:15,10,40.92158,-73.80969,0,Right lane blocked,25,Hutchinson River Pkwy S,Pelham,Partly Cloudy
+12,3,0:30,10/18/2017 7:10,10,40.73431,-73.92232,0,Right lane blocked,22,Long Island Expy E,Maspeth,Clear
+34,3,0:44,10/16/2017 20:50,10,40.84514,-73.92654,0,Right lane blocked,38,Major Deegan Expy N,Bronx,Partly Cloudy
+15,2,0:30,10/13/2017 4:18,10,41.18482,-73.8074,0,Right hand shoulder blocked ,46,Taconic State Pkwy S,Chappaqua,Clear
+34,3,0:45,10/11/2017 17:13,10,40.84514,-73.92654,0,Right lane blocked,15,Major Deegan Expy N,Bronx,Overcast
+18,3,0:30,10/10/2017 7:10,10,41.53931,-73.77114,0,Right hand shoulder blocked ,22,Taconic State Pkwy,Hopewell Junction,Fog
+35,2,0:45,10/6/2017 16:25,10,41.77643,-73.76835,0,Right hand shoulder blocked ,27,Taconic State Pkwy,Pleasant Valley,Partly Cloudy
+1,2,0:45,10/6/2017 15:58,10,41.10979,-73.80144,0,Right lane blocked,26,Saw Mill River Pkwy N,Hawthorne,Partly Cloudy
+16,3,0:30,10/6/2017 7:52,10,40.7401,-73.84543,0,Two lanes blocked,22,Grand Central Pkwy W,Corona,Mostly Cloudy
+18,2,0:44,10/2/2017 14:46,10,41.53931,-73.77114,0,Right hand shoulder blocked ,23,Taconic State Pkwy,Hopewell Junction,Clear
+51,3,0:30,10/2/2017 9:20,10,41.02558,-73.73134,0,Right hand shoulder blocked ,28,Cross Westchester Expy E,West Harrison,Clear
+35,2,0:44,9/30/2017 11:31,9,41.77643,-73.76835,0,Right hand shoulder blocked ,37,Taconic State Pkwy,Pleasant Valley,Overcast
+37,2,0:30,9/26/2017 18:39,9,40.92158,-73.80969,0,Right hand shoulder blocked ,21,Hutchinson River Pkwy S,Pelham,Mostly Cloudy
+9,2,0:30,9/19/2017 8:14,9,41.40964,-73.78676,0,Right lane blocked,24,Taconic State Pkwy N,Putnam Valley,Mostly Cloudy
+12,3,0:45,9/13/2017 14:17,9,40.73431,-73.92232,0,Right lane blocked,22,Long Island Expy E,Maspeth,Mostly Cloudy
+32,2,0:44,9/13/2017 8:18,9,41.25376,-73.80881,0,Right hand shoulder blocked ,24,Taconic State Pkwy S,Yorktown Heights,Scattered Clouds
+12,3,0:44,9/12/2017 9:29,9,40.73431,-73.92232,0,Right and center lane blocked,28,Long Island Expy E,Maspeth,Mostly Cloudy
+35,2,0:45,9/8/2017 17:38,9,41.77643,-73.76835,0,Right hand shoulder blocked ,20,Taconic State Pkwy,Pleasant Valley,Mostly Cloudy
+14,3,0:45,9/7/2017 17:32,9,40.66711,-73.99592,0,One lane blocked ,15,Gowanus Expy E,Brooklyn,Mostly Cloudy
+37,2,0:30,9/7/2017 8:12,9,40.92158,-73.80969,0,Right hand shoulder blocked ,24,Hutchinson River Pkwy S,Pelham,Scattered Clouds
+35,2,0:28,9/2/2017 0:44,9,41.77643,-73.76835,0,Right hand shoulder blocked ,43,Taconic State Pkwy,Pleasant Valley,Clear
+40,3,0:45,9/1/2017 19:02,9,40.82445,-73.8726,0,Right lane blocked,28,Bronx River Pkwy S,Bronx,Mostly Cloudy
+12,3,0:44,8/29/2017 14:43,8,40.73431,-73.92232,0,Right and center lane blocked,22,Long Island Expy E,Maspeth,Light Rain
+34,3,0:45,8/28/2017 18:57,8,40.84514,-73.92654,0,Two lanes blocked,13,Major Deegan Expy N,Bronx,Mostly Cloudy
+19,3,0:45,8/25/2017 16:27,8,40.82236,-73.88721,0,One lane blocked ,22,Sheridan Expy N,Bronx,Mostly Cloudy
+18,3,0:45,8/22/2017 16:35,8,41.53931,-73.77114,0,Right hand shoulder blocked ,22,Taconic State Pkwy,Hopewell Junction,Clear
+34,3,0:45,8/18/2017 13:22,8,40.84514,-73.92654,0,Two lanes blocked,19,Major Deegan Expy N,Bronx,Light Rain
+40,3,0:29,8/18/2017 8:03,8,40.82445,-73.8726,0,Two lanes blocked,20,Bronx River Pkwy S,Bronx,Light Rain
+16,2,0:45,8/11/2017 20:16,8,40.7401,-73.84543,0,Right lane blocked,39,Grand Central Pkwy W,Corona,Mostly Cloudy
+27,3,0:45,8/11/2017 14:25,8,40.83742,-73.88061,0,One lane blocked ,22,Cross Bronx Expy E,Bronx,Mostly Cloudy
+12,3,0:29,8/11/2017 8:55,8,40.73431,-73.92232,0,Two lanes blocked,20,Long Island Expy E,Maspeth,Partly Cloudy
+32,2,0:45,8/8/2017 16:27,8,41.25376,-73.80881,0,Right hand shoulder blocked ,27,Taconic State Pkwy S,Yorktown Heights,Partly Cloudy
+20,2,0:45,8/4/2017 16:37,8,41.05513,-73.81042,0,Right hand shoulder blocked ,27,Sprain Brook Pkwy S,Elmsford,Partly Cloudy
+35,2,0:45,8/4/2017 16:00,8,41.77643,-73.76835,0,Right hand shoulder blocked ,27,Taconic State Pkwy,Pleasant Valley,Light Rain
+26,3,0:45,8/3/2017 16:34,8,40.69165,-73.99931,0,Right lane blocked,22,Brooklyn Queens Expy,Brooklyn,Clear
+18,3,0:44,8/3/2017 14:39,8,41.53931,-73.77114,0,Right hand shoulder blocked ,22,Taconic State Pkwy,Hopewell Junction,Clear
+1,2,0:29,7/28/2017 6:58,7,41.10979,-73.80144,0,Right hand shoulder blocked ,29,Saw Mill River Pkwy N,Hawthorne,Fog
+1,2,0:30,7/27/2017 9:11,7,41.10979,-73.80144,0,Right hand shoulder blocked ,28,Saw Mill River Pkwy N,Hawthorne,Scattered Clouds
+34,3,0:44,7/27/2017 5:01,7,40.84514,-73.92654,0,Left and center lane blocked ,36,Major Deegan Expy N,Bronx,Mostly Cloudy
+16,2,0:45,7/26/2017 16:49,7,40.7401,-73.84543,0,Right lane blocked,27,Grand Central Pkwy W,Corona,Mostly Cloudy
+26,3,0:30,7/26/2017 9:38,7,40.69165,-73.99931,0,Right and center lane blocked,28,Brooklyn Queens Expy,Brooklyn,Clear
+14,3,0:29,7/24/2017 5:47,7,40.66711,-73.99592,0,Two lanes blocked,36,Gowanus Expy E,Brooklyn,Rain
+15,2,0:45,7/21/2017 15:52,7,41.18482,-73.8074,0,Right hand shoulder blocked ,26,Taconic State Pkwy S,Chappaqua,Partly Cloudy
+34,3,0:44,7/18/2017 20:22,7,40.84514,-73.92654,0,Left and center lane blocked ,38,Major Deegan Expy N,Bronx,Scattered Clouds
+8,2,0:45,7/15/2017 18:09,7,41.67018,-73.78852,0,Right hand shoulder blocked ,21,Taconic State Pkwy,Lagrangeville,Clear
+26,3,0:30,7/14/2017 11:21,7,40.69165,-73.99931,0,Right lane blocked,33,Brooklyn Queens Expy,Brooklyn,Overcast
+40,3,0:45,7/9/2017 14:20,7,40.82445,-73.8726,0,One lane blocked ,22,Bronx River Pkwy S,Bronx,Scattered Clouds
+35,2,0:45,7/7/2017 17:49,7,41.77643,-73.76835,0,Right hand shoulder blocked ,20,Taconic State Pkwy,Pleasant Valley,Clear
+1,2,0:29,7/7/2017 11:23,7,41.10979,-73.80144,0,Right hand shoulder blocked ,37,Saw Mill River Pkwy N,Hawthorne,Heavy Rain
+26,3,0:30,7/5/2017 11:23,7,40.69165,-73.99931,0,Right lane blocked,33,Brooklyn Queens Expy,Brooklyn,Clear
+9,2,0:29,7/1/2017 6:43,7,41.40964,-73.78676,0,Right hand shoulder blocked ,29,Taconic State Pkwy N,Putnam Valley,Mostly Cloudy
+27,3,0:30,6/30/2017 7:16,6,40.83742,-73.88061,0,Two lanes blocked,22,Cross Bronx Expy E,Bronx,Scattered Clouds
+16,3,0:44,6/22/2017 19:33,6,40.7401,-73.84543,0,Right lane blocked,28,Grand Central Pkwy W,Corona,Mostly Cloudy
+35,2,0:45,6/22/2017 14:46,6,41.77643,-73.76835,0,Right hand shoulder blocked ,23,Taconic State Pkwy,Pleasant Valley,Clear
+34,3,0:45,6/20/2017 19:15,6,40.84514,-73.92654,0,Right lane blocked,28,Major Deegan Expy N,Bronx,Scattered Clouds
+51,3,0:45,6/20/2017 17:37,6,41.02558,-73.73134,0,Right hand shoulder blocked ,15,Cross Westchester Expy E,West Harrison,Scattered Clouds
+18,2,0:44,6/20/2017 17:00,6,41.53931,-73.77114,0,Right hand shoulder blocked ,20,Taconic State Pkwy,Hopewell Junction,Clear
+9,2,0:45,6/19/2017 14:35,6,41.40964,-73.78676,0,Right hand shoulder blocked ,23,Taconic State Pkwy N,Putnam Valley,Light Rain
+40,3,0:30,6/18/2017 7:32,6,40.82445,-73.8726,0,Two lanes blocked,22,Bronx River Pkwy S,Bronx,Overcast
+16,2,0:44,6/16/2017 17:56,6,40.7401,-73.84543,0,Right lane blocked,20,Grand Central Pkwy W,Corona,Overcast
+35,2,0:47,6/14/2017 22:03,6,41.77643,-73.76835,0,Right hand shoulder blocked ,39,Taconic State Pkwy,Pleasant Valley,Clear
+18,2,0:45,6/14/2017 15:43,6,41.53931,-73.77114,0,Right lane blocked,26,Taconic State Pkwy,Hopewell Junction,Clear
+8,2,0:30,6/12/2017 7:05,6,41.67018,-73.78852,0,Right hand shoulder blocked ,23,Taconic State Pkwy,Lagrangeville,Clear
+35,2,0:29,6/11/2017 17:54,6,41.77643,-73.76835,0,Right hand shoulder blocked ,20,Taconic State Pkwy,Pleasant Valley,Clear
+16,3,0:30,6/9/2017 10:48,6,40.7401,-73.84543,0,One lane blocked ,32,Grand Central Pkwy W,Corona,Mostly Cloudy
+34,3,0:44,6/8/2017 16:10,6,40.84514,-73.92654,0,Left and center lane blocked ,22,Major Deegan Expy N,Bronx,Overcast
+1,2,0:30,6/8/2017 6:49,6,41.10979,-73.80144,0,Right hand shoulder blocked ,29,Saw Mill River Pkwy N,Hawthorne,Clear
+27,3,0:30,6/7/2017 9:52,6,40.83742,-73.88061,0.01,Right lane blocked,28,Cross Bronx Expy E,Bronx,Mostly Cloudy
+27,3,0:30,6/7/2017 9:51,6,40.83742,-73.88061,0.01,Right lane blocked,28,Cross Bronx Expy E,Bronx,Mostly Cloudy
+26,3,0:45,6/6/2017 13:24,6,40.69165,-73.99931,0.01,Right lane blocked,19,Brooklyn Queens Expy,Brooklyn,Light Rain
+26,3,0:29,5/24/2017 10:55,5,40.69165,-73.99931,0.01,Right lane blocked,32,Brooklyn Queens Expy,Brooklyn,Overcast
+14,2,0:30,5/24/2017 10:51,5,40.66711,-73.99592,0.01,Two lanes blocked,35,Gowanus Expy E,Brooklyn,Overcast
+20,2,0:30,5/23/2017 8:38,5,41.05513,-73.81042,0.01,Right hand shoulder blocked ,24,Sprain Brook Pkwy S,Elmsford,Scattered Clouds
+18,3,0:30,5/23/2017 6:58,5,41.53931,-73.77114,0.01,Right hand shoulder blocked ,29,Taconic State Pkwy,Hopewell Junction,Partly Cloudy
+20,2,0:30,5/22/2017 8:37,5,41.05513,-73.81042,0.01,Right hand shoulder blocked ,24,Sprain Brook Pkwy S,Elmsford,Mostly Cloudy
+8,2,0:29,5/18/2017 10:51,5,41.67018,-73.78852,0.01,Right hand shoulder blocked ,35,Taconic State Pkwy,Lagrangeville,Clear
+20,2,0:45,5/17/2017 8:58,5,41.05513,-73.81042,0.01,Right hand shoulder blocked ,24,Sprain Brook Pkwy S,Elmsford,Clear
+37,2,0:30,5/12/2017 8:44,5,40.92158,-73.80969,0.01,Right hand shoulder blocked ,24,Hutchinson River Pkwy S,Pelham,Scattered Clouds
+9,2,0:29,5/11/2017 7:04,5,41.40964,-73.78676,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy N,Putnam Valley,Clear
+15,2,0:29,5/9/2017 7:42,5,41.18482,-73.8074,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy S,Chappaqua,Scattered Clouds
+9,2,0:28,5/6/2017 6:16,5,41.40964,-73.78676,0.01,Right hand shoulder blocked ,29,Taconic State Pkwy N,Putnam Valley,Light Drizzle
+66,3,0:45,5/3/2017 15:50,5,40.70174,-73.99126,0.01,Left and center lane blocked ,20,Brooklyn Queens Expy,Brooklyn,Partly Cloudy
+8,2,0:30,4/29/2017 17:00,4,41.67018,-73.78852,0.01,Right hand shoulder blocked ,20,Taconic State Pkwy,Lagrangeville,Overcast
+14,3,0:44,4/28/2017 15:29,4,40.66711,-73.99592,0.01,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear
+12,3,0:29,4/27/2017 10:40,4,40.73431,-73.92232,0.01,Right lane blocked,32,Long Island Expy E,Maspeth,Overcast
+40,3,0:44,4/25/2017 16:30,4,40.82445,-73.8726,0.01,Left and center lane blocked ,22,Bronx River Pkwy S,Bronx,Light Rain
+66,2,0:30,4/25/2017 8:46,4,40.70174,-73.99126,0.97,Two lanes blocked,24,Brooklyn Queens Expy,Brooklyn,Overcast
+37,2,0:30,4/24/2017 11:16,4,40.92158,-73.80969,0.01,Right hand shoulder blocked ,37,Hutchinson River Pkwy S,Pelham,Overcast
+19,3,1:00,4/23/2017 22:02,4,40.82236,-73.88721,0.01,One lane blocked ,36,Sheridan Expy N,Bronx,Overcast
+20,2,0:43,4/22/2017 8:33,4,41.05513,-73.81042,0.01,Right hand shoulder blocked ,24,Sprain Brook Pkwy S,Elmsford,Light Rain
+1,2,0:29,4/21/2017 8:26,4,41.10979,-73.80144,0.01,Right hand shoulder blocked ,24,Saw Mill River Pkwy N,Hawthorne,Light Rain
+40,3,0:45,4/20/2017 16:28,4,40.82445,-73.8726,0.01,One lane blocked ,22,Bronx River Pkwy S,Bronx,Scattered Clouds
+19,3,0:45,4/19/2017 20:46,4,40.82236,-73.88721,0.01,Right lane blocked,38,Sheridan Expy N,Bronx,Overcast
+1,2,0:44,4/19/2017 9:24,4,41.10979,-73.80144,0.01,Right hand shoulder blocked ,28,Saw Mill River Pkwy N,Hawthorne,Mostly Cloudy
+12,3,0:45,4/14/2017 13:44,4,40.73431,-73.92232,0.01,Two lanes blocked,19,Long Island Expy E,Maspeth,Scattered Clouds
+16,3,0:44,4/11/2017 20:27,4,40.7401,-73.84543,0.01,One lane blocked ,38,Grand Central Pkwy W,Corona,Mostly Cloudy
+9,2,0:45,4/6/2017 17:23,4,41.40964,-73.78676,0.01,Right hand shoulder blocked ,20,Taconic State Pkwy N,Putnam Valley,Light Rain
+15,2,0:30,4/6/2017 8:45,4,41.18482,-73.8074,0.01,Right and center lane blocked,24,Taconic State Pkwy S,Chappaqua,Light Rain
+19,3,0:45,4/3/2017 18:21,4,40.82236,-73.88721,0.01,One lane blocked ,13,Sheridan Expy N,Bronx,Overcast
+66,3,0:46,4/1/2017 1:44,4,40.70174,-73.99126,0.01,Right lane blocked,39,Brooklyn Queens Expy,Brooklyn,Overcast
+6,2,0:30,3/30/2017 7:35,3,40.77143,-73.87611,0.01,Right lane blocked,23,Grand Central Pkwy E,East Elmhurst,Partly Cloudy
+26,3,0:59,3/28/2017 23:14,3,40.69165,-73.99931,0.01,Two lanes blocked,40,Brooklyn Queens Expy,Brooklyn,Overcast
+16,3,0:45,3/28/2017 20:36,3,40.7401,-73.84543,0.01,Right lane blocked,38,Grand Central Pkwy W,Corona,Light Rain
+16,2,0:30,3/28/2017 8:12,3,40.7401,-73.84543,0.01,One lane blocked ,24,Grand Central Pkwy W,Corona,Overcast
+37,2,0:30,3/27/2017 7:14,3,40.92158,-73.80969,0.01,Right hand shoulder blocked ,23,Hutchinson River Pkwy S,Pelham,Light Rain
+9,2,0:44,3/25/2017 11:39,3,41.40964,-73.78676,0.01,Right hand shoulder blocked ,37,Taconic State Pkwy N,Putnam Valley,Overcast
+66,3,0:45,3/23/2017 19:06,3,40.70174,-73.99126,0.01,Right lane blocked,28,Brooklyn Queens Expy,Brooklyn,Clear
+32,2,0:30,3/21/2017 7:48,3,41.25376,-73.80881,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy S,Yorktown Heights,Mostly Cloudy
+40,3,0:45,3/20/2017 20:13,3,40.82445,-73.8726,0.01,Right and center lane blocked,38,Bronx River Pkwy S,Bronx,Mostly Cloudy
+6,2,0:45,3/20/2017 17:16,3,40.77143,-73.87611,0.01,One lane blocked ,20,Grand Central Pkwy E,East Elmhurst,Mostly Cloudy
+6,2,0:29,3/16/2017 12:48,3,40.77143,-73.87611,0.01,Right and center lane blocked,24,Grand Central Pkwy E,East Elmhurst,Mostly Cloudy
+16,3,0:30,3/15/2017 10:27,3,40.7401,-73.84543,0.01,Right lane blocked,32,Grand Central Pkwy W,Corona,Overcast
+51,3,0:45,3/10/2017 16:33,3,41.02558,-73.73134,0.01,Right hand shoulder blocked ,22,Cross Westchester Expy E,West Harrison,Scattered Clouds
+51,3,0:30,3/9/2017 4:00,3,41.02558,-73.73134,0.01,Right hand shoulder blocked ,43,Cross Westchester Expy E,West Harrison,Clear
+1,2,0:30,3/6/2017 11:09,3,41.10979,-73.80144,0.01,Right hand shoulder blocked ,37,Saw Mill River Pkwy N,Hawthorne,Clear
+12,3,0:29,3/6/2017 8:56,3,40.73431,-73.92232,0.01,Two lanes blocked,20,Long Island Expy E,Maspeth,Partly Cloudy
+66,3,0:29,3/6/2017 8:03,3,40.70174,-73.99126,0.01,One lane blocked ,20,Brooklyn Queens Expy,Brooklyn,Clear
+51,3,0:45,3/2/2017 20:47,3,41.02558,-73.73134,0.01,Right hand shoulder blocked ,38,Cross Westchester Expy E,West Harrison,Clear
+9,2,0:29,3/1/2017 10:10,3,41.40964,-73.78676,0.01,Right hand shoulder blocked ,35,Taconic State Pkwy N,Putnam Valley,Overcast
+18,2,0:44,2/28/2017 14:45,2,41.53931,-73.77114,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy,Hopewell Junction,Clear
+9,2,0:30,2/28/2017 10:52,2,41.40964,-73.78676,0.01,Right hand shoulder blocked ,35,Taconic State Pkwy N,Putnam Valley,Scattered Clouds
+27,3,0:45,2/27/2017 18:38,2,40.83742,-73.88061,0.01,Right lane blocked,13,Cross Bronx Expy E,Bronx,Mostly Cloudy
+6,2,0:45,2/27/2017 18:56,2,40.77143,-73.87611,0.01,Right lane blocked,21,Grand Central Pkwy E,East Elmhurst,Mostly Cloudy
+15,2,0:24,2/26/2017 9:16,2,41.18482,-73.8074,0.01,Right hand shoulder blocked ,28,Taconic State Pkwy S,Chappaqua,Mostly Cloudy
+14,3,0:45,2/21/2017 19:32,2,40.66711,-73.99592,0.01,Right lane blocked,28,Gowanus Expy E,Brooklyn,Clear
+26,3,0:30,2/21/2017 11:48,2,40.69165,-73.99931,0.01,Right lane blocked,33,Brooklyn Queens Expy,Brooklyn,Clear
+9,2,0:30,2/20/2017 7:21,2,41.40964,-73.78676,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy N,Putnam Valley,Clear
+14,3,0:44,2/19/2017 10:40,2,40.66711,-73.99592,0.01,Two lanes blocked,32,Gowanus Expy E,Brooklyn,Clear
+18,2,0:45,2/19/2017 7:23,2,41.53931,-73.77114,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy,Hopewell Junction,Clear
+6,2,0:45,2/17/2017 18:26,2,40.77143,-73.87611,0.01,One lane blocked ,21,Grand Central Pkwy E,East Elmhurst,Mostly Cloudy
+26,3,0:45,2/15/2017 20:36,2,40.69165,-73.99931,0.01,Right lane blocked,38,Brooklyn Queens Expy,Brooklyn,Overcast
+51,3,0:45,2/12/2017 12:02,2,41.02558,-73.73134,0.01,Right hand shoulder blocked ,19,Cross Westchester Expy E,West Harrison,Light Snow
+18,3,0:30,2/11/2017 5:24,2,41.53931,-73.77114,0.01,Right hand shoulder blocked ,36,Taconic State Pkwy,Hopewell Junction,Overcast
+18,3,0:29,2/11/2017 3:40,2,41.53931,-73.77114,0.01,Right hand shoulder blocked ,47,Taconic State Pkwy,Hopewell Junction,Overcast
+9,2,0:29,2/10/2017 11:23,2,41.40964,-73.78676,0.01,Right hand shoulder blocked ,37,Taconic State Pkwy N,Putnam Valley,Mostly Cloudy
+37,2,0:30,2/10/2017 8:10,2,40.92158,-73.80969,0.01,Right hand shoulder blocked ,24,Hutchinson River Pkwy S,Pelham,Partly Cloudy
+9,2,0:31,2/8/2017 8:46,2,41.40964,-73.78676,0.01,Right hand shoulder blocked ,24,Taconic State Pkwy N,Putnam Valley,Fog
+18,2,0:29,2/7/2017 4:55,2,41.53931,-73.77114,0.01,Right hand shoulder blocked ,46,Taconic State Pkwy,Hopewell Junction,Overcast
+34,3,0:45,2/6/2017 19:40,2,40.84514,-73.92654,0.01,One lane blocked ,28,Major Deegan Expy N,Bronx,Partly Cloudy
+12,3,0:45,2/6/2017 14:34,2,40.73431,-73.92232,0.01,Right lane blocked,22,Long Island Expy E,Maspeth,Scattered Clouds
+32,2,0:30,2/6/2017 6:53,2,41.25376,-73.80881,0.01,Right hand shoulder blocked ,29,Taconic State Pkwy S,Yorktown Heights,Clear
+12,3,0:29,2/2/2017 7:03,2,40.73431,-73.92232,0.01,Right lane blocked,22,Long Island Expy E,Maspeth,Overcast
+8,2,0:45,1/30/2017 18:26,1,41.67018,-73.78852,0.01,Right hand shoulder blocked ,21,Taconic State Pkwy,Lagrangeville,Clear
+27,3,0:30,1/27/2017 10:30,1,40.83742,-73.88061,0.01,Right lane blocked,32,Cross Bronx Expy E,Bronx,Mostly Cloudy
+12,3,0:30,1/25/2017 9:16,1,40.73431,-73.92232,0.01,Right lane blocked,28,Long Island Expy E,Maspeth,Mostly Cloudy
+18,3,0:45,1/23/2017 20:53,1,41.53931,-73.77114,0.01,Right hand shoulder blocked ,38,Taconic State Pkwy,Hopewell Junction,Rain
+26,3,0:30,1/23/2017 10:25,1,40.69165,-73.99931,0.01,Right lane blocked,32,Brooklyn Queens Expy,Brooklyn,Overcast
+66,2,0:29,1/19/2017 11:22,1,40.70174,-73.99126,0.97,Right lane blocked,37,Brooklyn Queens Expy,Brooklyn,Partly Cloudy
+15,2,0:29,1/18/2017 7:32,1,41.18482,-73.8074,0.01,Right hand shoulder blocked ,23,Taconic State Pkwy S,Chappaqua,Light Drizzle
+37,2,0:29,1/17/2017 7:26,1,40.92158,-73.80969,0.01,Shoulder blocked,23,Hutchinson River Pkwy S,Pelham,Overcast
+14,3,0:30,1/14/2017 21:43,1,40.66711,-73.99592,0.01,Right lane blocked,38,Gowanus Expy E,Brooklyn,Overcast
+35,2,0:44,1/12/2017 20:15,1,41.77643,-73.76835,0.01,Right hand shoulder blocked ,39,Taconic State Pkwy,Pleasant Valley,Mostly Cloudy
+12,3,0:45,1/6/2017 15:08,1,40.73431,-73.92232,0.01,Left and center lane blocked ,20,Long Island Expy E,Maspeth,Mostly Cloudy
+34,3,0:44,1/2/2017 19:15,1,40.84514,-73.92654,0.01,One lane blocked ,28,Major Deegan Expy N,Bronx,Overcast
+35,2,0:44,1/2/2017 19:19,1,41.77643,-73.76835,0.01,Right hand shoulder blocked ,32,Taconic State Pkwy,Pleasant Valley,Overcast
+16,3,0:45,1/2/2017 16:43,1,40.7401,-73.84543,0.01,One lane blocked ,22,Grand Central Pkwy W,Corona,Light Rain

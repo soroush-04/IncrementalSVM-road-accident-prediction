@@ -1,0 +1,497 @@
+ID_Start_Location,differ_HHMM,S_time,Month,Start_Lat,Start_Lng,Distance.mi.,Accident.Description,Traffic.Speed,Street,City,Weather_Condition
+12,1:17,2/6/2020 9:29,2,40.61955,-74.02346,4.48,Right lane blocked,28,Brooklyn Queens Expy,Brooklyn,Fog
+12,1:31,11/21/2020 9:24,11,40.61955,-74.02346,3.17,Two lanes blocked,28,Brooklyn Queens Expy,Brooklyn,Fair
+12,1:21,10/26/2019 15:51,10,40.61955,-74.02346,4.48,Two lanes blocked,20,Brooklyn Queens Expy,Brooklyn,Fair
+12,1:17,9/20/2020 15:12,9,40.61955,-74.02346,3.17,Right lane blocked,20,Brooklyn Queens Expy,Brooklyn,Fair
+12,2:41,1/11/2020 16:14,1,40.61955,-74.02346,4.48,Right lane blocked,22,Brooklyn Queens Expy,Brooklyn,Cloudy
+12,0:29,9/15/2019 22:49,9,40.61955,-74.02346,4.49,One lane blocked ,36,Brooklyn Queens Expy,Brooklyn,Fair
+12,0:29,8/3/2020 22:50,8,40.61955,-74.02346,0,Right and center lane blocked,36,Brooklyn Queens Expy,Brooklyn,Fair
+36,0:30,2/5/2019 6:45,2,40.6659,-73.99604,0.226,Right lane blocked,29,Gowanus Expy E,Brooklyn,Mostly Cloudy
+36,6:00,5/18/2018 7:19,5,40.6659,-73.99604,0.784,Road closed,0,Gowanus Expy E,Brooklyn,Mostly Cloudy
+36,0:29,1/20/2020 7:04,1,40.6659,-73.99604,0.226,Two lanes blocked,22,Gowanus Expy E,Brooklyn,Fair
+36,0:30,1/29/2020 7:57,1,40.6659,-73.99604,0.226,Right lane blocked,23,Gowanus Expy E,Brooklyn,Cloudy
+36,0:29,4/15/2019 9:29,4,40.6659,-73.99604,0.226,Right lane blocked,28,Gowanus Expy E,Brooklyn,Partly Cloudy
+36,0:27,6/27/2019 9:05,6,40.6659,-73.99604,0.226,One lane blocked ,28,Gowanus Expy E,Brooklyn,Fair
+36,6:00,11/29/2017 11:09,11,40.6659,-73.99604,0.226,Right lane blocked,37,Gowanus Expy E,Brooklyn,Clear
+36,6:00,12/1/2017 15:52,12,40.6659,-73.99604,0.226,Right lane blocked,26,Gowanus Expy E,Brooklyn,Clear
+36,0:27,4/4/2019 17:49,4,40.6659,-73.99604,0.226,Right lane blocked,15,Gowanus Expy E,Brooklyn,Fair
+36,6:00,11/28/2017 20:46,11,40.6659,-73.99604,0.226,Right lane blocked,39,Gowanus Expy E,Brooklyn,Clear
+36,0:28,11/29/2018 21:03,11,40.6659,-73.99604,0.226,Two lanes blocked,38,Gowanus Expy E,Brooklyn,Partly Cloudy
+20,0:30,6/26/2020 7:46,6,40.6664,-73.80175,0,Two lanes blocked,22,Van Wyck Expy S,South Ozone Park,Partly Cloudy
+20,0:30,6/26/2020 7:46,6,40.6664,-73.80175,0,Two lanes blocked,22,Van Wyck Expy S,South Ozone Park,Partly Cloudy
+20,0:30,5/9/2020 17:50,5,40.6664,-73.80175,0,Right lane blocked,13,Van Wyck Expy S,South Ozone Park,Light Rain
+20,0:30,5/9/2020 18:58,5,40.6664,-73.80175,0,Right lane blocked,24,Van Wyck Expy S,South Ozone Park,Mostly Cloudy / Windy
+20,0:30,5/9/2020 18:54,5,40.6664,-73.80175,0,Right lane blocked,24,Van Wyck Expy S,South Ozone Park,Mostly Cloudy / Windy
+20,0:30,5/9/2020 18:23,5,40.6664,-73.80175,0,Right lane blocked,21,Van Wyck Expy S,South Ozone Park,Mostly Cloudy / Windy
+20,0:45,4/26/2020 20:13,4,40.6664,-73.80175,0,Two lanes blocked,38,Van Wyck Expy S,South Ozone Park,Light Rain
+16,1:03,6/15/2019 3:39,6,40.66707,-73.99574,0,Right lane blocked,60,Brooklyn Queens Expy,Brooklyn,Fair
+16,2:02,12/28/2019 3:27,12,40.66707,-73.99574,0,Two lanes blocked,47,Brooklyn Queens Expy,Brooklyn,Fair
+16,1:39,1/20/2020 6:38,1,40.66707,-73.99574,0,Right lane blocked,29,Brooklyn Queens Expy,Brooklyn,Fair
+16,0:29,6/24/2019 10:26,6,40.66707,-73.99574,0,One lane blocked ,32,Brooklyn Queens Expy,Brooklyn,Fair
+16,1:15,7/30/2019 13:35,7,40.66707,-73.99574,0,Right lane blocked,19,Brooklyn Queens Expy,Brooklyn,Fair
+16,2:49,8/13/2020 13:19,8,40.66707,-73.99574,0,Two lanes blocked,19,Brooklyn Queens Expy,Brooklyn,nan
+16,1:16,3/18/2020 14:05,3,40.66707,-73.99574,0,Right lane blocked,22,Brooklyn Queens Expy,Brooklyn,Fair
+16,1:45,1/6/2020 15:20,1,40.66707,-73.99574,0,Two lanes blocked,20,Brooklyn Queens Expy,Brooklyn,Cloudy
+16,1:27,6/28/2020 16:15,6,40.66707,-73.99574,0,Two lanes blocked,22,Brooklyn Queens Expy,Brooklyn,Fair
+16,1:15,6/26/2019 17:03,6,40.66707,-73.99574,0,Right lane blocked,15,Brooklyn Queens Expy,Brooklyn,Fair
+16,0:59,6/1/2020 18:27,6,40.66707,-73.99574,0,Right lane blocked,13,Brooklyn Queens Expy,Brooklyn,Cloudy
+16,0:46,1/30/2020 19:46,1,40.66707,-73.99574,0,Right lane blocked,28,Brooklyn Queens Expy,Brooklyn,Fair
+16,0:30,2/28/2020 22:11,2,40.66707,-73.99574,0,Two lanes blocked,36,Brooklyn Queens Expy,Brooklyn,Mostly Cloudy
+98,0:29,7/24/2017 5:47,7,40.66711,-73.99592,0,Two lanes blocked,36,Gowanus Expy E,Brooklyn,Rain
+98,0:29,12/5/2017 8:34,12,40.66711,-73.99592,0,Two lanes blocked,20,Gowanus Expy E,Brooklyn,Clear
+98,0:30,1/7/2018 8:01,1,40.66711,-73.99592,0,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear
+98,0:29,11/15/2016 10:24,11,40.66711,-73.99592,0.01,Two lanes blocked,32,Gowanus Expy E,Brooklyn,Rain
+98,0:44,2/19/2017 10:40,2,40.66711,-73.99592,0.01,Two lanes blocked,32,Gowanus Expy E,Brooklyn,Clear
+98,0:30,5/24/2017 10:51,5,40.66711,-73.99592,0.01,Two lanes blocked,35,Gowanus Expy E,Brooklyn,Overcast
+98,0:44,4/28/2017 15:29,4,40.66711,-73.99592,0.01,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear
+98,0:45,11/12/2017 15:45,11,40.66711,-73.99592,0,Right lane blocked,20,Gowanus Expy E,Brooklyn,Clear
+98,0:45,9/7/2017 17:32,9,40.66711,-73.99592,0,One lane blocked ,15,Gowanus Expy E,Brooklyn,Mostly Cloudy
+98,0:44,12/19/2016 18:28,12,40.66711,-73.99592,0.01,Right lane blocked,13,Gowanus Expy E,Brooklyn,Clear
+98,0:28,2/5/2018 18:51,2,40.66711,-73.99592,0,Two lanes blocked,13,Gowanus Expy E,Brooklyn,Clear
+98,0:58,10/3/2016 19:17,10,40.66711,-73.99592,0,Right lane blocked,28,Gowanus Expy E,Brooklyn,Scattered Clouds
+98,0:45,2/21/2017 19:32,2,40.66711,-73.99592,0.01,Right lane blocked,28,Gowanus Expy E,Brooklyn,Clear
+98,0:29,10/4/2016 21:28,10,40.66711,-73.99592,0,Two lanes blocked,38,Gowanus Expy E,Brooklyn,Partly Cloudy
+98,0:30,1/14/2017 21:43,1,40.66711,-73.99592,0.01,Right lane blocked,38,Gowanus Expy E,Brooklyn,Overcast
+34,0:30,3/26/2020 5:36,3,40.68258,-73.66615,0,Right lane blocked,36,Southern State Pkwy E,Malverne,Fair
+34,6:00,7/11/2018 8:27,7,40.68258,-73.66615,1.213,Right lane blocked,24,Southern State Pkwy E,Malverne,Partly Cloudy
+34,0:30,2/6/2019 9:26,2,40.68258,-73.66615,0.27,Right lane blocked,28,Southern State Pkwy E,Malverne,Partly Cloudy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
